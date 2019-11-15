@@ -1,0 +1,94 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.fonttopo{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 25px; 
+}
+
+.fonttopoum{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 48px; 
+  color: darkorange;
+}
+
+.refeicoes{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 21px; 
+  color: green;
+}
+
+.lanches{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 21px; 
+  color: green;
+}
+
+.sucosdetox{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 21px; 
+  color: green;
+}
+
+.home{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 20px; 
+}
+
+.sobre{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 20px;
+}
+
+.servicos{
+  font-family: 'Pattaya', sans-serif; 
+  font-size: 20px;
+}
+
+.contato{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 20px;
+}
+
+.itemum{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 20px;
+  }
+
+  .itemdois{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 20px;
+  }
+
+  .itemtres{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 20px;
+  }
+
+  .itemquatro{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 20px;
+  }
+
+  .itemcinco{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 20px;
+  }
+
+  .itemseis{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 20px;
+  }
