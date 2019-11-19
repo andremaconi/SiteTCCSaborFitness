@@ -14,9 +14,13 @@ body {
   }
 }
 
+.barranavegacao{
+    color: green;
+}
+
 .fonttopo{
   font-family: 'Pattaya', sans-serif;
-  font-size: 25px; 
+  font-size: px; 
 }
 
 .fonttopoum{
